@@ -8,3 +8,23 @@
 .button-color{
     background-color: #E76F51;
 }
+
+/* main section part */
+.gray-scale{
+    filter: grayscale(100%);
+}
+
+/* happy clients section */
+.client-color,.questions { 
+    color:#E76F51 ;
+}
+.rating-star{
+    color: #E77C40;
+    }
+.Regina{
+    color:#23A6F0 ;
+}
+
+
+
+
